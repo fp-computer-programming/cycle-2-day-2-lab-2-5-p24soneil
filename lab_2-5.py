@@ -15,5 +15,31 @@ or not using augmented assignments. To start, set all variables used equal to 21
  a *= 12
  i = i // 7
 """
-
+x = 21
+y = 21
+z = 21
+w = 21
+t = 21
+t = 21
+a = 21
+i = 21
+# question 1
+# x += 5
+x = x + 5
+print (x)
+# Y = y -3
+y -= 3
+print (y)
+# w = w % 2
+w %= 2
+print (w)
+# t = t / 5
+t/= 5
+print (t)
+# a = 12 / a
+a/= 12
+print (a)
+# i = i / 7
+i//= 7
+print (i)
 # Be sure to include comments above each pair of 2 lines with the question number (Ex. # Question 1) and print statements beneath each assignment.
